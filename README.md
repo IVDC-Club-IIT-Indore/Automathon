@@ -1,4 +1,6 @@
 
+
+
 # **Automathon 2022**
 
 TASKS: 
@@ -24,10 +26,13 @@ guide: https://docs.ultralytics.com/quick-start/
 reference video : https://github.com/ultralytics/yolov5
 
 
+ RESULTS: https://drive.google.com/file/d/1zimiVEmHrjT0--5r-wJQ38Sk2NS7VSUR/view?usp=sharing
 
-*NOTE:* I understand the fact that YOLOv4 could have been the better choice wrt accuracy ,but due to some compatibility(most probably) issues , I wasn't able to complete that model using YOLOv4 but instead used YOLOv5
 
-https://arxiv.org/pdf/2004.10934v1.pdf
+
+*NOTE:* I understand the fact that YOLOv4 could have been the better choice wrt accuracy ,but due to some compatibility(most probably) issues , I wasn't able to complete that model using YOLOv4 but instead used YOLOv5     https://arxiv.org/pdf/2004.10934v1.pdf
+
+
 
 ## 1.2   	 Lane Detection
 In this part I have used :
@@ -38,6 +43,7 @@ In this part I have used :
 - LaneLines ( identifying the lane lines)
 - etc
  
+ RESULTS: https://drive.google.com/file/d/1NdFZXxhFd9rXld62VRMdMql_XiXXXEMR/view?usp=sharing
 
 references
 https://github.com/Dt-Pham/Advanced-Lane-Lines.git
