@@ -55,11 +55,11 @@ https://www.youtube.com/watch?v=iRTuCYx6quQjec
 
 readings: https://viso.ai/deep-learning/object-tracking/
 
-In that process I actually Solved a bug in the code ( from the reference repository)  It was refering to ( basically the module it was using was outdated)
+In that process I actually Solved a bug in the code, from the reference repository  I  was refering to ( basically the module it was using was outdated)
 https://stackoverflow.com/questions/62390517/no-module-named-sklearn-utils-linear-assignment
 
-Attempted in the following manner 
-used open cv  based methods for object tracking
+Attempted in the following manner :
+-used open cv  based methods for object tracking
 
 ## Object Counting(extra from my side)
 Added along with Tracker( My attempt for counting vehicles seems a lot inaccurate , I am trying to improve on it)
